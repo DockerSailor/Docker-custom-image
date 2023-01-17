@@ -1,6 +1,6 @@
 # Docker-custom-image
 
-Hello guys, today we´ll learn how to create our custom Docker images and how we can use them.
+Hello guys, today we´ll learn how to create our custom Docker images.
 
 
 ![alt text](https://github.com/DockerSailor/Docker-custom-image/blob/main/dockerlogo.png?raw=true)
